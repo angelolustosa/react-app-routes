@@ -15,10 +15,10 @@ export const MenuBar = () => {
                                 <a className="nav-link active" aria-current="page" href="#">Home</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" href="#">Usuários</a>
+                                <a className="nav-link" href="/usuarios">Usuários</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" href="#">Cadastro</a>
+                                <a className="nav-link" href="/cadastro">Cadastro</a>
                             </li>
                         </ul>
                     </div>
